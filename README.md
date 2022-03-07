@@ -1,4 +1,4 @@
-# TheSlushies
+# TheSlushies (Group 3)
 
 ## Purpose Of Project
 
