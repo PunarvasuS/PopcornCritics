@@ -7,3 +7,4 @@ To organize and highlight our projects through weekly sprints that connect to ou
 
 ## Individual Github Pages
 ### [Brian Individual](https://github.com/BrianZhang2016/Brian-Individual)
+### [Derrick Individual](https://github.com/Pitsco/derrick_individual/wiki)
