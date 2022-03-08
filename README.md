@@ -11,3 +11,17 @@ To organize and highlight our projects through weekly sprints that connect to ou
 ### [Derrick Individual](https://github.com/Pitsco/derrick_individual)
 ### [Nathan Individual](https://github.com/ProRichyMan/NathanIndividual)
 ### [Punnu Individual](https://github.com/PunarvasuS/DataStructures)
+
+## Wireframes
+
+## Week Overview
+
+| Week Number | 
+| ------------- |
+| [Week 0](#Week-0) | 
+
+
+
+### Week 0
+
+[Back](#Table-Of-Contents) 
