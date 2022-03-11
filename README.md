@@ -11,6 +11,8 @@
 - Recommendations based on genres of movies listed
 - Can search movies by genre, name or above a certain rating
 - explanitory pages to learn more about the code and process to do stuff
+- rendom movie generator
+- movie guessing game; site outputs movie description (from IMDb API) to user; user has to guess movie title
 
 ## Purpose Of ReadMe
 To organize and highlight our projects through weekly sprints that connect to our PBL. This is shown through commits, tangibles and videos which are organized by the week to showcase work.
@@ -30,10 +32,6 @@ To organize and highlight our projects through weekly sprints that connect to ou
 | Week Number | 
 | ------------- |
 | [Week 0](#Week-0) | 
-
-
-
-
 
 ### Week 0
 
@@ -59,4 +57,4 @@ hard code in html
 
 dynamic: loaded from api, structures 
 
-[Back](#Week-Overview) 
+[Back to Top](#Week-Overview) 
