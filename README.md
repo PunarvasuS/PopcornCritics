@@ -22,7 +22,7 @@ To organize and highlight our projects through weekly sprints that connect to ou
 ### [Nathan Individual](https://github.com/ProRichyMan/NathanIndividual)
 ### [Punnu Individual](https://github.com/PunarvasuS/DataStructures)
 
-## Wireframes
+## [Wireframes](https://github.com/PunarvasuS/TheSlushies/wiki/Wireframes)
 
 ## Week Overview
 
