@@ -2,6 +2,16 @@
 
 ## Purpose Of Project
 
+### Key Ideas
+
+- movie rating page
+- comments
+- 'learn more' button that explains code in a dropdown
+- "TOP MOVIES" page, gets avg's from movies rated on the site and will list in order from highest to lowest, 10 per page
+- Recommendations based on genres of movies listed
+- Can search movies by genre, name or above a certain rating
+- explanitory pages to learn more about the code and process to do stuff
+
 ## Purpose Of ReadMe
 To organize and highlight our projects through weekly sprints that connect to our PBL. This is shown through commits, tangibles and videos which are organized by the week to showcase work.
 
