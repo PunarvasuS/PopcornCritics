@@ -1,5 +1,7 @@
 # TheSlushies (Group 3)
 
+## [Week 0 Review Ticket](https://github.com/PunarvasuS/TheSlushies/issues/3)
+
 ## Purpose Of Project
 
 ### Key Ideas
