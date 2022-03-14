@@ -44,6 +44,9 @@ To organize and highlight our projects through weekly sprints that connect to ou
 | Derrick | Technical Officer | Works with Teacher, Classroom TOs, and BOF TO's to form TPT lessons and Tech Talk Topics for Trimester. Also, facilitates learning of Technical Concepts within Scrum Team.|
 
 ## Sponsors
+
+Sponsor- Mr. Mortensen
+
 Intrested in educational ideas
 * more specific explinations
 
