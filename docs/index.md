@@ -1,37 +1,63 @@
-## Welcome to GitHub Pages
+# TheSlushies (Group 3)
 
-You can use the [editor on GitHub](https://github.com/PunarvasuS/TheSlushies/edit/github-pages/docs/index.md) to maintain and preview the content for your website in Markdown files.
+## Purpose Of Project
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Key Ideas
 
-### Markdown
+- movie rating page
+- comments
+- 'learn more' button that explains code in a dropdown
+- "TOP MOVIES" page, gets avg's from movies rated on the site and will list in order from highest to lowest, 10 per page
+- Recommendations based on genres of movies listed
+- Can search movies by genre, name or above a certain rating
+- explanitory pages to learn more about the code and process to do stuff
+- rendom movie generator
+- movie guessing game; site outputs movie description (from IMDb API) to user; user has to guess movie title
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Purpose Of ReadMe
+To organize and highlight our projects through weekly sprints that connect to our PBL. This is shown through commits, tangibles and videos which are organized by the week to showcase work.
 
-```markdown
-Syntax highlighted code block
+## Individual Github Pages
+### [Brian Individual](https://github.com/BrianZhang2016/Brian-Individual)
+### [Byron Individual](https://github.com/byronlu06/tempname2)
+### [Derrick Individual](https://github.com/Pitsco/derrick_individual)
+### [Nathan Individual](https://github.com/ProRichyMan/NathanIndividual)
+### [Punnu Individual](https://github.com/PunarvasuS/DataStructures)
 
-# Header 1
-## Header 2
-### Header 3
+## Wireframes
+### [Wireframe of Website](https://github.com/PunarvasuS/TheSlushies/wiki/Wireframes)
 
-- Bulleted
-- List
+## Week Overview
 
-1. Numbered
-2. List
+| Week Number | 
+| ------------- |
+| [Week 0](#Week-0) | 
 
-**Bold** and _Italic_ and `Code` text
+### Week 0
 
-[Link](url) and ![Image](src)
-```
+| Member | Roles   | About the Roles | 
+| ------ | ------------- | -------------------------------------------------------------|
+| Punnu | Scrum Master | Ensure roles are assigned. Build Scrum Board. |
+| Brian | Github Admin | Setup Project in Git. Integrate any starter code from Trimester 1 and/or Trimester 2. Build policies for Fork and Pull requests. |
+| Byron | Primary Designer | Primary Designer and Layout manager. Organize Jinja2 Enabled Templates, ensure usage of Bootstrap (minimize CSS customization per page). Establish plan for overrides on each of the User Pages. |
+|  | Deployment  Manager | Deploy Web site. Establish policy and frequency for updates. Ensure site is not broken and always alive for reviews. |
+| Derrick | Technical Officer | Works with Teacher, Classroom TOs, and BOF TO's to form TPT lessons and Tech Talk Topics for Trimester. Also, facilitates learning of Technical Concepts within Scrum Team.|
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## Sponsors
 
-### Jekyll Themes
+Sponsor- Mr. Mortensen
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/PunarvasuS/TheSlushies/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Intrested in educational ideas
+* more specific explinations
 
-### Support or Contact
+lists, database: comments and review
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+movie review and every page has a behind the scenes to teach viewers
+
+movie site and jekkl site together
+
+hard code in html
+
+dynamic: loaded from api, structures 
+
+[Back to Top](#Week-Overview) 
