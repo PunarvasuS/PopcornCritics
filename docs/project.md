@@ -1,3 +1,5 @@
+{% include nav.html %}
+
 # Project Details
 
 ## Key Ideas
