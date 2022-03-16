@@ -4,7 +4,7 @@
 
 ## Roles 
 
-| Member | Roles  | About the Roles | 
+| Member | Roles  | <div style="width:300px">About</div> | 
 | ------ | ------------- | -------------------------------------------------------------|
 | Punnu | Scrum Master | Ensure roles are assigned. Build Scrum Board. |
 | Brian | Github Admin | Setup Project in Git. Integrate any starter code from Trimester 1 and/or Trimester 2. Build policies for Fork and Pull requests. |
