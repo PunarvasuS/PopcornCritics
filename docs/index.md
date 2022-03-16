@@ -1,3 +1,5 @@
+{% include nav.html %}
+
 # TheSlushies (Group 3)
 
 ## Purpose Of Project
