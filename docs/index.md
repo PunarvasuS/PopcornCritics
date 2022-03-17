@@ -12,11 +12,15 @@ To organize and highlight our projects through weekly sprints that connect to ou
 ## [Team ScrumBoard](https://github.com/PunarvasuS/PopcornCritics/projects/1)
 
 ## Individual Github Pages
-### [Brian Individual](https://github.com/BrianZhang2016/Brian-Individual)
-### [Byron Individual](https://github.com/byronlu06/tempname2)
-### [Derrick Individual](https://github.com/Pitsco/derrick_individual)
-### [Nathan Individual](https://github.com/ProRichyMan/NathanIndividual)
-### [Punnu Individual](https://github.com/PunarvasuS/DataStructures)
+
+| Member | Individual Page | 
+|  ----- | -------- | 
+| Punnu | [Page](https://github.com/PunarvasuS/DataStructures) |
+| Brian | [Page](https://github.com/BrianZhang2016/Brian-Individual) |
+| Byron |[Page](https://github.com/byronlu06/tempname2)|
+| Nathan | [Page](https://github.com/ProRichyMan/NathanIndividual) |
+| Derrick|  [Page](https://github.com/Pitsco/derrick_individual) |
+
 
 ## [Wireframes](https://github.com/PunarvasuS/PopcornCritics/wiki/Wireframes)
 
