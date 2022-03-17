@@ -1,6 +1,6 @@
-# TheSlushies (Group 3)
+# Popcorn Critics (Group 3)
 
-## [Week 0 Review Ticket](https://github.com/PunarvasuS/TheSlushies/issues/3)
+## [Week 0 Review Ticket](https://github.com/PunarvasuS/PopcornCritics/issues/3)
 
 ## Purpose Of Project
 
@@ -27,7 +27,7 @@ To organize and highlight our projects through weekly sprints that connect to ou
 ### [Punnu Individual](https://github.com/PunarvasuS/DataStructures)
 
 ## Wireframes
-### [Wireframe of Website](https://github.com/PunarvasuS/TheSlushies/wiki/Wireframes)
+### [Wireframe of Website](https://github.com/PunarvasuS/PopcornCritics/wiki/Wireframes)
 
 ## Week Overview
 
@@ -39,11 +39,11 @@ To organize and highlight our projects through weekly sprints that connect to ou
 
 | Member | Roles | <div style="width:300px">About</div> |
 | ------ | ----- | ------------------------------------ |
-| Punnu | Scrum Master | Ensure roles are assigned. Build Scrum Board. | [Ticket](https://github.com/PunarvasuS/TheSlushies/issues/4)
-| Brian | Github Admin | Setup Project in Git. Integrate any starter code from Trimester 1 and/or Trimester 2. Build policies for Fork and Pull requests. | [Ticket](https://github.com/PunarvasuS/TheSlushies/issues/3) |
+| Punnu | Scrum Master | Ensure roles are assigned. Build Scrum Board. | [Ticket](https://github.com/PunarvasuS/PopcornCritics/issues/4)
+| Brian | Github Admin | Setup Project in Git. Integrate any starter code from Trimester 1 and/or Trimester 2. Build policies for Fork and Pull requests. | [Ticket](https://github.com/PunarvasuS/PopcornCritics/issues/3) |
 | Byron | Primary Designer | Primary Designer and Layout manager. Organize Jinja2 Enabled Templates, ensure usage of Bootstrap (minimize CSS customization per page). Establish plan for overrides on each of the User Pages. | [Ticket](https://github.com/byronlu06/Data-Structures/issues/2) |
-|  | Deployment  Manager | Deploy Web site. Establish policy and frequency for updates. Ensure site is not broken and always alive for reviews. | [Ticket](https://github.com/PunarvasuS/TheSlushies/issues/6)
-| Derrick | Technical Officer | Works with Teacher, Classroom TOs, and BOF TO's to form TPT lessons and Tech Talk Topics for Trimester. Also, facilitates learning of Technical Concepts within Scrum Team.| [Ticket](https://github.com/PunarvasuS/TheSlushies/issues/5) |
+|  | Deployment  Manager | Deploy Web site. Establish policy and frequency for updates. Ensure site is not broken and always alive for reviews. | [Ticket](https://github.com/PunarvasuS/PopcornCritics/issues/6)
+| Derrick | Technical Officer | Works with Teacher, Classroom TOs, and BOF TO's to form TPT lessons and Tech Talk Topics for Trimester. Also, facilitates learning of Technical Concepts within Scrum Team.| [Ticket](https://github.com/PunarvasuS/PopcornCritics/issues/5) |
 
 ## Sponsors
 
