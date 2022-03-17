@@ -3,6 +3,9 @@
 ## [Week 0 Review Ticket](https://github.com/PunarvasuS/PopcornCritics/issues/3)
 
 ## Purpose Of Project
+Showcase movies and reviews while showing how the website/page was made
+
+## [Github Pages](https://punarvasus.github.io/PopcornCritics/)
 
 ### Key Ideas
 
