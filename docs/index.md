@@ -1,6 +1,6 @@
 {% include nav.html %}
 
-# TheSlushies (Group 3)
+# PopcornCritics (Group 3)
 
 ## Purpose Of Project
 
@@ -16,6 +16,6 @@ To organize and highlight our projects through weekly sprints that connect to ou
 ### [Nathan Individual](https://github.com/ProRichyMan/NathanIndividual)
 ### [Punnu Individual](https://github.com/PunarvasuS/DataStructures)
 
-## [Wireframes](https://github.com/PunarvasuS/TheSlushies/wiki/Wireframes)
+## [Wireframes](https://github.com/PunarvasuS/PopcornCritics/wiki/Wireframes)
 
-[Back to Top](#TheSlushies-(Group-3))
+[Back to Top](#popcorncritics-group-3)
