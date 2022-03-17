@@ -27,7 +27,7 @@
 | Brian |  |
 | Byron |  |
 | Nathan |  |
-| Derrick|  |
+| Derrick | Helped on contact us page, |
 
 ## Week 0 - 3/7/22
 
@@ -37,4 +37,4 @@
 | Brian | Wireframe; Created Team GH-Pages; Ideation |
 | Byron |  |
 | Nathan | Got Mort as sponsor; Ideation |
-| Derrick|  |
+| Derrick | Helped with Scrum Board; Ideation |
