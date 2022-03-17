@@ -26,7 +26,7 @@
 | Member | Contributions | 
 |  ----- | -------------------------------------------------------------|
 | Punnu | Added Week 1 Issue; added more Team GH-Pages + organization |
-| Brian |  |
+| Brian | Created Contact Us page |
 | Byron |  |
 | Nathan |  |
 | Derrick | Helped on contact us page, |
@@ -37,6 +37,6 @@
 |  ----- | -------------------------------------------------------------|
 | Punnu | Created Scrum Board; added Week 0 issues; Ideation for project |
 | Brian | Wireframe; Created Team GH-Pages; Ideation |
-| Byron |  |
+| Byron | Created issues and helped create scrum board. Ideation |
 | Nathan | Got Mort as sponsor; Ideation |
 | Derrick | Helped with Scrum Board; Ideation |
