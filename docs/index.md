@@ -2,6 +2,8 @@
 
 # PopcornCritics (Group 3)
 
+### Have you ever watched a movie but regretted wasting your time after finishing it? Well Popcorn Critics is the perfect place for you.
+
 ## Purpose Of Project
 
 Showcase movies and reviews while showing how the website/page was made
