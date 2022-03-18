@@ -2,7 +2,7 @@
 
 # PopcornCritics (Group 3)
 
-### Have you ever watched a movie but regretted wasting your time after finishing it? Well Popcorn Critics is the perfect place for you.
+### Have you ever watched a movie but regretted wasting your time after finishing it? Well Popcorn Critics is the perfect place for you!
 
 ## Purpose Of Project
 
