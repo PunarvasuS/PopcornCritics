@@ -43,11 +43,11 @@ To organize and highlight our projects through weekly sprints that connect to ou
 
 | Member | Ticket | 
 | ------ | ----- | 
-| Nathan |  |
-| Brian |  |
-| Byron |  |
-| Punnu |  |
-| Derrick |  |
+| Nathan | [Ticket](https://github.com/PunarvasuS/PopcornCritics/issues/23) |
+| Brian | [Ticket](https://github.com/PunarvasuS/PopcornCritics/issues/22) |
+| Byron | [Ticket](https://github.com/byronlu06/Data-Structures/issues/3) |
+| Punnu | [Ticket](https://github.com/PunarvasuS/PopcornCritics/issues/20) |
+| Derrick | [Ticket](https://github.com/PunarvasuS/PopcornCritics/issues/21)  |
 
 
 ### Week 0
