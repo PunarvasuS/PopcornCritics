@@ -25,7 +25,7 @@
 
 | Member | Contributions | 
 |  ----- | -------------------------------------------------------------|
-| Punnu | Added Week 1 Issue; added more Team GH-Pages + organization |
+| Punnu | Added: Week 1 Issue + webpage issues; more Team GH-Pages; organization |
 | Brian | Created Contact Us page |
 | Byron |  |
 | Nathan |  |
