@@ -18,7 +18,7 @@
 
 | Week Number | Review Tickets
 | ------------- | ---------- |
-| Week 1 | [Ticket](https://github.com/PunarvasuS/PopcornCritics/issues/19) |
+| Week 1 | [Ticket](https://github.com/PunarvasuS/PopcornCritics/issues/24) |
 | Week 0 | [Ticket](https://github.com/PunarvasuS/PopcornCritics/issues/10)  |
 
 ## Week 1 - 3/14/22
