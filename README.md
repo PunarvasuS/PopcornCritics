@@ -65,5 +65,7 @@ Week 2: 1st Meeting with Sponsor
 * Using AWS to deploy
 * Need to keep website alive 
 * Say "This is our plan until June" in presentation tomorrow
+* After school, Site dies, so otherwise AWS till June
+* If we wish to, can keep it up for later.
 
 [Back to Top](#Week-Overview) 
