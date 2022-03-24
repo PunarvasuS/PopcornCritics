@@ -60,4 +60,10 @@ hard code in html
 
 dynamic: loaded from api, structures 
 
+Week 2: 1st Meeting with Sponsor
+* MIT Licence is fine
+* Using AWS to deploy
+* Need to keep website alive 
+* Say "This is our plan until June" in presentation tomorrow
+
 [Back to Top](#Week-Overview) 
