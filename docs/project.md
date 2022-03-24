@@ -24,3 +24,6 @@
 - movie site and jekkl site together
 - hard code in html
 - dynamic: loaded from api, structures 
+
+## Flowchart
+<img width="812" alt="Screen Shot 2022-03-24 at 13 16 01" src="https://user-images.githubusercontent.com/89234480/160020514-7dcb809a-39ae-4781-ac3e-00b6933c0202.png">
