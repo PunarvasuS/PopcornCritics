@@ -2,6 +2,8 @@
 
 # Project Details
 
+{% include project.html %}
+
 ## Key Ideas
 
 - movie rating page
