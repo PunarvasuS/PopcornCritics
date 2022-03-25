@@ -1,3 +1,5 @@
+{% include nav.html %}
+
 ## Deployment Plan
 
 First, make sure website has at the very least home page as well as navigable pages (not necessarily complete)
