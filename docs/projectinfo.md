@@ -1,3 +1,9 @@
+{% include nav.html %}
+
+# Project Details
+
+{% include project.html %}
+
 ## Quick Description
 
 
