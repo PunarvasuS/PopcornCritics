@@ -1,3 +1,9 @@
+{% include nav.html %}
+
+# Project Details
+
+{% include project.html %}
+
 ## [Wireframes](https://github.com/PunarvasuS/PopcornCritics/wiki/Wireframes)
 
 ## Flowchart
