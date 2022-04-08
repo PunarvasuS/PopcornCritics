@@ -15,8 +15,8 @@ Showcase movies and reviews while showing how the website/page was made
 - "TOP MOVIES" page, gets avg's from movies rated on the site and will list in order from highest to lowest, 10 per page
 - Recommendations based on genres of movies listed
 - Can search movies by genre, name or above a certain rating
-- explanitory pages to learn more about the code and process to do stuff
-- rendom movie generator
+- explanatory pages to learn more about the code and process to do stuff
+- random movie generator
 - movie guessing game; site outputs movie description (from IMDb API) to user; user has to guess movie title
 
 ## Purpose Of ReadMe
