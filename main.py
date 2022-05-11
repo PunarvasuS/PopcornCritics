@@ -16,7 +16,7 @@ def random():
 
 @app.route('/quiz')
 def quiz():
-    return render_template("quiz.html")
+    return render_template("pages/quiz.html")
 
 @app.route('/learn')
 def learn():
