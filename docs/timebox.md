@@ -21,6 +21,16 @@
 | Week 1 | [Ticket](https://github.com/PunarvasuS/PopcornCritics/issues/24) |
 | Week 0 | [Ticket](https://github.com/PunarvasuS/PopcornCritics/issues/10)  |
 
+## Week 8 - 5/9/22
+
+| Member | Contributions | 
+|  ----- | -------------------------------------------------------------|
+| Punnu | Issues: Dark Mode, Top Movies/ratings/comments + set up deployment on AWS? |
+| Brian | Movie Quiz |
+| Byron | Dark mode navbar toggle, css files |
+| Nathan | Blueprint |
+| Derrick |  |
+
 ## Week 1 - 3/14/22
 
 | Member | Contributions | 
