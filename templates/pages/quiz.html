@@ -8,30 +8,32 @@
 
 {% block body %}
 <div>
-    <h1 class="center-block" style=" text-align:center; font-family: 'Comic Sans MS';">Movie Quiz!</h1>
-    <h2 style="padding-left: 25px"> Welcome to our Movie Quiz! </h2>
-    <h3 style="color: red; text-align: center; font-size: 35px">Warning, some questions may contain spoilers</h3>
+    <h1 class="center-block" style=" text-align:center; ">Movie Quiz!</h1>
+    <h2 style="padding-left: 25px; font-family: 'Comic Sans MS';" > Welcome to our Movie Quiz! </h2>
+    <h3 style="color: red; text-align: center; font-size: 35px; font-family: Helvetica">WARNING, SOME QUESTIONS MAY CONTAIN SPOILERS</h3>
     <div id="quiz" style="padding-left: 45px"></div>
     <div style="padding-left: 20px"> <button id="submit">Submit Quiz</button> </div>
-    <div style="padding-left: 25px" id="results"></div>
+    <div style="padding-left: 25px; font-family: 'Droid Sans Mono Slashed'; font-size: 25px" id="results"></div>
 </div>
 <style>
     body{
         font-size: 15px;
-        font-family: "Comic Sans MS";
         color: #333;
     }
     .question{
         font-weight: 600;
+        font-family: 'Comic Sans MS';
     }
     .answers {
         margin-bottom: 20px;
+        font-family: 'Comic Sans MS';
     }
     .answers label{
         display: block;
+        font-family: 'Comic Sans MS';
     }
     #submit{
-        font-family: sans-serif;
+        font-family: "DejaVu Sans";
         font-size: 20px;
         background-color: #279;
         color: #fff;
