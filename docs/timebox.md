@@ -1,7 +1,5 @@
 {% include nav.html %}
 
-# [Lastest Review Ticket](https://github.com/PunarvasuS/PopcornCritics/issues/19)
-
 # Timebox
 
 ## Roles 
