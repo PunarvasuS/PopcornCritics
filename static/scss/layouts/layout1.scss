@@ -1,0 +1,32 @@
+$bgcolor: #2b425b;
+$textcolor: white;
+$fontsize: 69px;
+$margin-size: 20px;
+$text-align: center;
+$font-family-base: Bahnschrift;
+$font-family-base2: Cutive Mono;
+$width: auto;
+$border: 3px solid black;
+$Hcolor: black;
+$fontsize2: small;
+
+p {
+  font-family: $font-family-base2;
+}
+table {
+  font-family: $font-family-base2;
+  font-size: $fontsize2;
+}
+h1 {
+  font-family: $font-family-base;
+  font-size: $fontsize;
+  color: $textcolor
+
+}
+
+body {
+  background-color: $bgcolor;
+}
+html {
+  background-color: $bgcolor;
+}
