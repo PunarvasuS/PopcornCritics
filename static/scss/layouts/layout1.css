@@ -1,0 +1,24 @@
+p {
+  font-family: Cutive Mono;
+}
+
+table {
+  font-family: Cutive Mono;
+  font-size: small;
+}
+
+h1 {
+  font-family: Bahnschrift;
+  font-size: 69px;
+  color: white;
+}
+
+body {
+  background-color: #2b425b;
+}
+
+html {
+  background-color: #2b425b;
+}
+
+/*# sourceMappingURL=layout1.css.map */

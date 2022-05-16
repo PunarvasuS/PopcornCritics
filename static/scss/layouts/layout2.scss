@@ -1,0 +1,29 @@
+$bgcolor: antiquewhite;
+$textcolor: black;
+$fontsize: 90px;
+$margin-size: 20px;
+$text-align: center;
+$font-family-base: Licorice;
+$font-family-base2: Dosis;
+$width: auto;
+$border: 3px solid black;
+$Hcolor: black;
+
+
+/* Use the variables */
+
+
+p {
+  font-family: $font-family-base2;
+}
+
+h1 {
+  font-family: $font-family-base;
+  font-size: $fontsize;
+  color: $Hcolor
+}
+
+body {
+  background-color: $bgcolor;
+}
+
