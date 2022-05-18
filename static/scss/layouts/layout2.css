@@ -4,13 +4,17 @@ p {
 }
 
 h1 {
-  font-family: Licorice;
+  font-family: Comic Sans MS;
   font-size: 90px;
   color: black;
 }
 
-body {
+html, body {
   background-color: antiquewhite;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 
 /*# sourceMappingURL=layout2.css.map */
