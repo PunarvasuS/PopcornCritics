@@ -1,0 +1,38 @@
+<html>
+<head>
+    <title>Login Page</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+</head>
+<body>
+<style>
+    body {
+        background-color: #d3ade6;
+    }
+
+    h1 {
+        color: #00000b;
+        text-align: center;
+    }
+
+    p {
+        font-family: verdana;
+        font-size: 20px;
+    }
+</style>
+<div class="container">
+    <h1>Please Login!</h1>
+    <br>
+    <form action="" method="post">
+        <input type="text" placeholder="Username" name="username" value="{{
+                request.form.username }}">
+        <input type="password" placeholder="Password" name="password" value="{{
+                request.form.password }}">
+        <input class="btn btn-default" type="submit" value="Login">
+    </form>
+    {% if error %}
+        <p class="error"><strong>Error:</strong> {{ error }}
+    {% endif %}
+</div>
+</body>
+</html>
