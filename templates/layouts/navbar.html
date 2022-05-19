@@ -19,6 +19,9 @@
                 <a class="nav-link" href="/quiz">Movie Quiz</a>
             </li>
             <li class="nav-item">
+                <a class="nav-link" href="/personality">Personality Quiz</a>
+            </li>
+            <li class="nav-item">
                 <a class="nav-link" href="/learn">Learn More</a>
             </li>
             <a class="nav-link" href="/notes">Notes</a>
@@ -31,7 +34,7 @@
                 <label style='color: dimgray;' class="custom-control-label" for="darkSwitch">Dark Mode</label>
             </div>
         </div>
-
+    </div>
         {% block navbar_script %}
             <!-- Navigation bar JavaScript support -->
             <script src={{  url_for("static", filename="javascript/navbar.js", version='140') }}></script>
