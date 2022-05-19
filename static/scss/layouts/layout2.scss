@@ -3,11 +3,12 @@ $textcolor: black;
 $fontsize: 90px;
 $margin-size: 20px;
 $text-align: center;
-$font-family-base: Licorice;
+$font-family-base: Comic Sans MS;
 $font-family-base2: Dosis;
 $width: auto;
 $border: 3px solid black;
 $Hcolor: black;
+$bgcover: cover;
 
 
 /* Use the variables */
@@ -23,7 +24,11 @@ h1 {
   color: $Hcolor
 }
 
-body {
+html, body {
   background-color: $bgcolor;
+  -webkit-background-size: $bgcover;
+  -moz-background-size: $bgcover;
+  -o-background-size: $bgcover;
+  background-size: $bgcover;
 }
 
