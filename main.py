@@ -10,17 +10,29 @@ def index():
 def top():
     return render_template("top.html")
 
+@app.route('/topmoviecode')
+def topmoviecode():
+    return render_template("learn/topmoviecode.html")
+
 @app.route('/random')
 def random():
     return render_template("random.html")
+
+@app.route('/randommoviegeneratorcode')
+def randommoviegeneratorcode():
+    return render_template("learn/randommoviegeneratorcode.html")
 
 @app.route('/quiz')
 def quiz():
     return render_template("pages/quiz.html")
 
+@app.route('/moviequizcode')
+def moviequizcode():
+    return render_template("learn/moviequizcode.html")
+
 @app.route('/learn')
 def learn():
-    return render_template("learn.html")
+    return render_template("pages/learn.html")
 
 if __name__ == "__main__":
     # runs the application on the repl development server
