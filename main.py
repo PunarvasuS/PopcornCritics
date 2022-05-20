@@ -58,6 +58,42 @@ def join():
 def notes():
     return render_template("notes.html")
 
+def calculate(ques):
+    total = 0
+    for i in range(7):
+        total = total + int(ques[i])
+    quiz1 = round((total/ 35)*100)
+    return quiz1
+
+@app.route('/personality/', methods=['GET', 'POST'])
+def personality():
+    msg = "FINISH THE TEST FIRST"
+    ques = []
+    for i in range(7):
+        ques.append("")
+    #    ques[6] = None
+    resultpy = 0
+    quiz2 = 0
+    #for loop to do all the request.form.get instead of a long list
+    if request.form:
+        for i in range(7):
+            reqformval = "ques" + str(i+1)
+            ques[i] = request.form.get(reqformval)
+            print(ques[i])
+        #calculates quiz2
+        if ques[0] != "":
+            resultpy = calculate(ques)
+            quiz2 = 100 - resultpy
+        else:
+            resultpy = 9999
+            #gives message based on whether sun or moon(random item from list)
+        if resultpy > quiz2:
+            msg = "You are like action, comedy, or romance! Check out our movie API to find suitable movies!" + " "
+        else:
+            msg = "You are like thriller, horror, or scifi! Check out our movie API to find suitable movies!" + " "
+
+    return render_template("pages/personality.html", result=resultpy, moonp=quiz2, mesg=msg)
+
 @app.route('/moviequizcode')
 def moviequizcode():
     return render_template("learn/moviequizcode.html")
