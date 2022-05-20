@@ -1,3 +1,8 @@
+<head>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js" ></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.min.js" integrity="sha384-Atwg2Pkwv9vp0ygtn1JAojH0nYbwNJLPhwyoVbhoPwBhjQPR5VtM2+xf0Uwh9KtT" crossorigin="anonymous"></script>
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+</head>
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
     <a class="navbar-brand" href="https://github.com/PunarvasuS/PopcornCritics/">&nbsp;&nbsp;{{basename}}</a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
@@ -25,6 +30,9 @@
                 <a class="nav-link" href="/learn">Learn More</a>
             </li>
             <a class="nav-link" href="/notes">Notes</a>
+            <li><a class="dropdown-item" href={{ url_for('crud_api.crud_api') }}>Full Roster</a></li>
+            <li><a class="dropdown-item" href={{ url_for('crud.search') }}>Member Search</a></li>
+            <a class="nav-link" href="/login">Login</a>
 
             </ul>
         </div>

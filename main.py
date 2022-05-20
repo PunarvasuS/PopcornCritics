@@ -1,4 +1,6 @@
-from flask import Flask, render_template, render_template, redirect, url_for, request
+import markdown
+from flask import Flask, render_template, render_template, redirect, url_for, request, Blueprint
+from flask_login import login_required, current_user
 from __init__ import app
 
 from cruddy.app_crud import app_crud
@@ -6,8 +8,6 @@ from cruddy.app_crud_api import app_crud_api
 
 app.register_blueprint(app_crud)
 app.register_blueprint(app_crud_api)
-
-app = Flask(__name__)
 
 @app.route('/', methods=['GET', 'POST'])
 def index():
@@ -55,6 +55,7 @@ def join():
     return render_template("join.html")
 
 @app.route('/notes')
+@login_required
 def notes():
     return render_template("notes.html")
 
@@ -101,6 +102,10 @@ def moviequizcode():
 @app.route('/learn')
 def learn():
     return render_template("pages/learn.html")
+
+@app.route('/login')
+def login():
+    return render_template("login.html")
 
 if __name__ == "__main__":
     # runs the application on the repl development server

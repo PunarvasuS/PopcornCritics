@@ -8,7 +8,7 @@ from cruddy.query import logout
 # blueprint defaults https://flask.palletsprojects.com/en/2.0.x/api/#blueprint-objects
 app_crud = Blueprint('crud', __name__,
                      url_prefix='/crud',
-                     template_folder='templates/cruddy/',
+                     template_folder='templates/',
                      static_folder='static',
                      static_url_path='static')
 
