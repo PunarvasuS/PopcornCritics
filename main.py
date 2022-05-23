@@ -40,7 +40,8 @@ def top():
         n_dict["caption"] = d_json["overview"]
         n_dict["country"] = d_json["production_countries"][0]["name"]
         n_dict["date"] = d_json["release_date"]
-        n_dict["time"] = d_json["runtime"]
+        n_dict["runtime"] = d_json["runtime"]
+        n_dict["tagline"] = d_json["tagline"]
         n_dict["title"] = d_json["title"]
         n_dict["rating"] = d_json["vote_average"]
         d_list.append(n_dict)
