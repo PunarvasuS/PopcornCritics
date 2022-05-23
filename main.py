@@ -1,8 +1,7 @@
-import markdown
 from flask import Flask, render_template, render_template, redirect, url_for, request, Blueprint
 from flask_login import login_required, current_user
 from __init__ import app
-
+import requests
 from cruddy.app_crud import app_crud
 from cruddy.app_crud_api import app_crud_api
 
@@ -20,11 +19,32 @@ def login():
             error = 'Invalid Credentials. Please try again.'
         else:
             return render_template('index.html')
-    return render_template('login.html', error=error)
+    return render_template('pages/login.html', error=error)
 
 @app.route('/top')
 def top():
-    return render_template("top.html")
+    id_list = []
+    top = requests.get("https://api.themoviedb.org/3/movie/top_rated?api_key=16165f36aebaa78f40ee87f1bf743c44&language=en-US&page=1")
+    topdict = top.json()
+    x = 0
+    while x < 10:
+        id = topdict["results"][x]["id"]
+        id_list.append(id)
+        x += 1
+
+    d_list = []
+    for id in id_list:
+        d_json = (requests.get("https://api.themoviedb.org/3/movie/" + str(id) + "?api_key=16165f36aebaa78f40ee87f1bf743c44&language=en-US")).json()
+        n_dict = {}
+        n_dict["genre"] = d_json["genres"][0]["name"]
+        n_dict["caption"] = d_json["overview"]
+        n_dict["country"] = d_json["production_countries"][0]["name"]
+        n_dict["date"] = d_json["release_date"]
+        n_dict["time"] = d_json["runtime"]
+        n_dict["title"] = d_json["title"]
+        n_dict["rating"] = d_json["vote_average"]
+        d_list.append(n_dict)
+    return render_template("pages/top.html", d_list=d_list)
 
 @app.route('/topmoviecode')
 def topmoviecode():
@@ -32,7 +52,7 @@ def topmoviecode():
 
 @app.route('/random')
 def random():
-    return render_template("random.html")
+    return render_template("pages/random.html")
 
 @app.route('/randommoviegeneratorcode')
 def randommoviegeneratorcode():
@@ -44,7 +64,7 @@ def quiz():
 
 @app.route('/calendar')
 def calendar():
-    return render_template("calendar.html")
+    return render_template("pages/calendar.html")
 
 @app.route('/clubRoster')
 def clubRoster():
@@ -57,7 +77,7 @@ def join():
 @app.route('/notes')
 @login_required
 def notes():
-    return render_template("notes.html")
+    return render_template("pages/notes.html")
 
 def calculate(ques):
     total = 0
@@ -105,7 +125,9 @@ def learn():
 
 @app.route('/login')
 def login():
-    return render_template("login.html")
+    return render_template("pages/login.html")
+
+
 
 if __name__ == "__main__":
     # runs the application on the repl development server
