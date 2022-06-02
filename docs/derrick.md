@@ -1,3 +1,7 @@
+{% include nav.html %}
+
+{% include individual.html %}
+
 # Derrick's Accomplishments:
 ## What did I accomplish on this website?
 
