@@ -1,6 +1,5 @@
 {% include nav.html %}
 
-{% include pbl.html %}
 
 # Tech Requirements and Accomplishments
 
