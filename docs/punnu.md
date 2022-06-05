@@ -1,4 +1,4 @@
-{% nav.html %}
+{% include nav.html %}
 
 # Punnu's Contributions
 
