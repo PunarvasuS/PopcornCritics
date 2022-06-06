@@ -1,4 +1,5 @@
 {% include nav.html %}
+{% include individual.html %}
 
 # Punnu's Contributions
 
