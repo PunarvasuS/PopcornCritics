@@ -10,5 +10,5 @@
 * [Learning Random Movie](https://github.com/AkhilNandhakumar/Guython/blob/main/templates/popcornpages/nowplayingL.html)
 
 ## Commits
-[PopcornCritics](https://github.com/PunarvasuS/PopcornCritics/commits?author=BrianZhang2016)
-[Guython](https://github.com/AkhilNandhakumar/Guython/commits?author=BrianZhang2016)
+### [PopcornCritics](https://github.com/PunarvasuS/PopcornCritics/commits?author=BrianZhang2016)
+### [Guython](https://github.com/AkhilNandhakumar/Guython/commits?author=BrianZhang2016)
