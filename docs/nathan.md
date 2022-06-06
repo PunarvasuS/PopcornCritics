@@ -1,10 +1,15 @@
 {% include nav.html %}
-{% include individual.html %}
+
 
 # Tech Requirements and Accomplishments
 
-## OLD PROJECT EVIDENCE:
+## Overall Accomplishments
+- Signup + Login/Logout + Login Required (On old)
+- Notes
+- Upload
+- Database
 
+## OLD PROJECT EVIDENCE:
 
 ### Database
 - [Commit](https://github.com/PunarvasuS/PopcornCritics/commit/33831a478b7eb2f40b4d626df7b4a7b254808de4)
