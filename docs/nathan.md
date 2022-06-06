@@ -1,5 +1,5 @@
 {% include nav.html %}
-
+{% include individual.html %}
 
 # Tech Requirements and Accomplishments
 
