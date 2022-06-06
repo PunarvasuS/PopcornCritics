@@ -3,11 +3,14 @@
 {% include individual.html %}
 
 # Derrick's Accomplishments:
-## What did I accomplish on this website?
+## All of the following code was created solely by me, however the data was not. All of the data from the API pages was gathered by [The Movie Database](https://www.themoviedb.org/?language=en-US)
 
+## What did I accomplish on this website?
+### [Now Playing API](https://github.com/AkhilNandhakumar/Guython/commit/1baba97638ec6a447257ed50b54e1dc2d77fdad5)
+### [Now Playing API learning page](https://github.com/AkhilNandhakumar/Guython/commit/36b30a173584b18dd18a1e3ab599a85c04355f4d)
 
 ## Tangibles:
-### All [Commits](https://github.com/AkhilNandhakumar/Guython/commits?author=Pitsco): 
+### [All Commits](https://github.com/AkhilNandhakumar/Guython/commits?author=Pitsco): 
 May 25:
 [Commit 1](https://github.com/AkhilNandhakumar/Guython/commit/735899c79d373ff4806cfc06d31eb2b0a13d7b8d)
 [Commit 2](https://github.com/AkhilNandhakumar/Guython/commit/4f982ce013cfd02516cacc970264720ce05bd5c5)
